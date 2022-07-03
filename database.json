@@ -1,0 +1,176 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "UDIPI",
+      "rest_name" : "Bambooz",
+      "img" : "https://c.ndtvimg.com/2021-11/i6ilk74g_lauki-dosa_625x300_24_November_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+      "rating" : 4,
+      "review": 542,
+      "vote" : 541,
+      "details" : "one of the best restaurant",
+      "priceForTwo" : 544,
+      "minPrice": 255,
+      "card" : true,
+      "cash" : true,
+      "UPI" : true
+       
+    },
+    {
+      "id": 2,
+      "title": "KAHNDVI",
+      "rest_name" : "Bambooz",
+      "img" : "https://c.ndtvimg.com/2021-11/i6ilk74g_lauki-dosa_625x300_24_November_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+      "rating" : 5,
+      "review": 487,
+      "vote" : 54165,
+      "details" : "one of the best restaurant",
+      "priceForTwo" : 600,
+      "minPrice": 250,
+      "card" : true,
+      "cash" : true,
+      "UPI" : true
+       
+    },
+    {
+      "id": 3,
+      "title": "Nuggets",
+      "rest_name" : "Bambooz",
+      "img" : "https://c.ndtvimg.com/2021-11/i6ilk74g_lauki-dosa_625x300_24_November_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+      "rating" : 2,
+      "review": 555,
+      "vote" : 54787,
+      "details" : "one of the best restaurant",
+      "priceForTwo" : 120,
+      "minPrice": 80,
+      "card" : true,
+      "cash" : true,
+      "UPI" : false
+       
+    },
+    {
+      "id": 4,
+      "title": "Panjabi",
+      "rest_name" : "Bambooz",
+      "img" : "https://c.ndtvimg.com/2021-11/i6ilk74g_lauki-dosa_625x300_24_November_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+      "rating" : 4,
+      "review": 540,
+      "vote" : 120,
+      "details" : "one of the best restaurant",
+      "priceForTwo" : 555,
+      "minPrice": 150,
+      "card" : true,
+      "cash" : false,
+      "UPI" : true
+       
+    },
+    {
+      "id": 5,
+      "title": "Continental",
+      "rest_name" : "Bambooz",
+      "img" : "https://c.ndtvimg.com/2021-11/i6ilk74g_lauki-dosa_625x300_24_November_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+      "rating" : 4,
+      "review": 555,
+      "vote" : 578,
+      "details" : "one of the best restaurant",
+      "priceForTwo" : 502,
+      "minPrice": 212,
+      "card" : false,
+      "cash" : true,
+      "UPI" : true
+       
+    },
+    {
+      "id": 6,
+      "title": "Salad",
+      "rest_name" : "Bambooz",
+      "img" : "https://c.ndtvimg.com/2021-11/i6ilk74g_lauki-dosa_625x300_24_November_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+      "rating" : 4,
+      "review": 542,
+      "vote" : 541,
+      "details" : "one of the best restaurant",
+      "priceForTwo" : 524,
+      "minPrice": 54,
+      "card" : true,
+      "cash" : true,
+      "UPI" : true
+       
+    },  
+    {
+      "id": 7,
+      "title": "Maharastrian",
+      "rest_name" : "Bambooz",
+      "img" : "https://c.ndtvimg.com/2021-11/i6ilk74g_lauki-dosa_625x300_24_November_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+      "rating" : 3,
+      "review": 542,
+      "vote" : 541,
+      "details" : "one of the best restaurant",
+      "priceForTwo" : 524,
+      "minPrice": 55,
+      "card" : true,
+      "cash" : true,
+      "UPI" : true
+       
+    },
+    {
+      "id": 8,
+      "title": "UDIPI",
+      "rest_name" : "Bambooz",
+      "img" : "https://c.ndtvimg.com/2021-11/i6ilk74g_lauki-dosa_625x300_24_November_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+      "rating" : 3,
+      "review": 542,
+      "vote" : 52121,
+      "details" : "one of the best restaurant",
+      "priceForTwo" : 54,
+      "minPrice": 25,
+      "card" : true,
+      "cash" : true,
+      "UPI" : true
+       
+    },
+    {
+      "id": 9,
+      "title": "UDIPI",
+      "rest_name" : "Bambooz",
+      "img" : "https://c.ndtvimg.com/2021-11/i6ilk74g_lauki-dosa_625x300_24_November_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+      "rating" : 4,
+      "review": 542,
+      "vote" : 541,
+      "details" : "one of the best restaurant",
+      "priceForTwo" : 544,
+      "minPrice": 255,
+      "card" : true,
+      "cash" : true,
+      "UPI" : true
+       
+    },
+    {
+      "id": 10,
+      "title": "UDIPI",
+      "rest_name" : "Bambooz",
+      "img" : "https://c.ndtvimg.com/2021-11/i6ilk74g_lauki-dosa_625x300_24_November_21.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886",
+      "rating" : 4,
+      "review": 542,
+      "vote" : 541,
+      "details" : "one of the best restaurant",
+      "priceForTwo" : 544,
+      "minPrice": 255,
+      "card" : true,
+      "cash" : true,
+      "UPI" : true
+       
+    }
+    
+   
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
